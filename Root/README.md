@@ -1,7 +1,10 @@
 # Customer Churn & Revenue Analytics
 
+## Live Dashboard
+👉 [View Tableau Dashboard](https://public.tableau.com/app/profile/viraj.patel5211/viz/CustomerChurnRevenueAnalytics/CustomerChurnAnalyticsDashboard)
+
 ## Project Overview
-End-to-end analytics project analyzing customer churn patterns for a telecom company using SQL, Python, and data visualization.
+End-to-end analytics project analyzing customer churn patterns for a telecom company using SQL, Python, and Tableau.
 
 ## Key Findings
 - Overall churn rate: 26.54% (1,869 of 7,043 customers)
@@ -13,9 +16,10 @@ End-to-end analytics project analyzing customer churn patterns for a telecom com
 
 ## Tools Used
 - **Python** (Pandas, Matplotlib, Seaborn, SciPy)
-- **SQL** (SQLite — joins, aggregations, window functions, subqueries)
-- **Statistical Analysis** (t-tests, correlation analysis, cohort analysis)
-- **Data Visualization** (8 charts saved as PNG)
+- **SQL** (SQLite — joins, aggregations, CASE statements, subqueries)
+- **Statistical Analysis** (t-tests, correlation, cohort analysis)
+- **Tableau Public** (interactive executive dashboard)
+- **GitHub** (documentation and reproducibility)
 
 ## Project Structure
 churn_analytics_project/
